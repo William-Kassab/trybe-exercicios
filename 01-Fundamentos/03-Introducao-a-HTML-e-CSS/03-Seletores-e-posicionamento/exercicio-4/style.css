@@ -1,0 +1,27 @@
+div:hover {
+  border-style: solid black;
+}
+
+.div1 {
+  color: blue;
+  font-style: italic;
+}
+
+.div2 {
+  color: green;
+}
+
+.div3 {
+  color: rgb(7, 140, 150);
+  font-size: 25px;
+  font-style: italic;
+}
+
+.div4 {
+  color: black;
+}
+
+.div5 {
+  color: lightpink;
+  font-style: italic;
+}
