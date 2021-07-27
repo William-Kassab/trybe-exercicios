@@ -1,0 +1,58 @@
+.titulo-principal {
+  color: red;
+  text-align: center;
+  background-color: black;
+}
+
+.navegacao {
+  text-align: center; 
+  
+}
+
+.article {
+  background-color: rgb(247, 247, 194);
+}
+
+.image1 {
+  width: 300px;
+  padding-top: 10px;
+  float: left;  
+  padding-right: 20px;
+}
+
+.image2 {
+  width: 300px;
+  float: right;
+}
+
+.sessao p {
+  text-align: center;
+  padding-right: 25%;
+  font-size: 17px;
+}
+
+.sessao2 h4 {
+  font-size: 18px;
+}
+
+.taxonomia ul {
+  float: right;
+  list-style-type: none;
+  border-style: solid;
+  border-color: black;
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 5px;
+  margin-right: 100px;
+  
+}
+
+h3 {
+  text-align: center;
+}
+
+.footer {
+  background-color: lightgray;
+  
+}
+
