@@ -6,3 +6,7 @@ for (let x = 0; x < numbers.length; x += 1) {
 }
 
 console.log(soma);
+
+
+
+//Para o segundo exercício, some todos os valores contidos no array e imprima o resultado
