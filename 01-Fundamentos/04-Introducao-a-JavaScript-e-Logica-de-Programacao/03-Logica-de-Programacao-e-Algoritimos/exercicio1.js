@@ -1,8 +1,8 @@
 let n = 5;
 let star = '';
 
-for (let i = 0; i < 5; i += 1) {
-  for (let j = 0; j < 5; j += 1) {
+for (let i = 1; i <= n; i += 1) {
+  for (let j = 0; j < n; j += 1) {
     star += '*';
   }
   star += '\n';
