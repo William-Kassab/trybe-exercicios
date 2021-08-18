@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body id="body">
+  <h1>Formulário</h1>
+  <div id="fields">
+    <fieldset id="field1">
+      <form action="" method="GET" enctype="multipart/form-data">
+      <label for="Nome">Nome:
+        <input type="text" name="Nome" id="nome" maxlength="40" required>
+      </label>
+      <br>
+      <br>
+      <label for="Email">Email:
+        <input type="text" name="Email" id="email" maxlength="50" required>
+      </label>
+      <br>
+      <br>
+      <label for="CPF">CPF:
+        <input type="text" name="CPF" id="cpf" maxlength="11" required>
+      </label>
+      <br>
+      <br>
+      <label for="Endereço">Endereço:
+        <input type="text" name="Endereço" id="endereço" maxlength="200" required>
+      </label>
+      <br>
+      <br>
+      <label for="Cidade">Cidade:
+        <input type="text" name="Cidade" id="cidade" maxlength="28" required>
+      </label>
+      <br>
+      <label for="Estado">Estado:
+        <select name="Estado" id="input-estado" required>
+        </select>
+      </label>
+      <br>
+      <br>
+      <label for="casa">Casa:
+        <input type="radio" name="Tipo" id="casa">
+      </label>
+      <label for="apartamento">Apartamento:
+        <input type="radio" name="Tipo" id="apartamento">
+      </label>
+    </fieldset>
+    <fieldset id="field2">
+      <label for="TextArea">Resumo do currículo:
+        <textarea name="ResumoCurriculo" id="text-area1" cols="30" rows="10" maxlength="1000" required>
+        </textarea>
+      </label>
+      <br>
+      <br>
+      <label for="Cargo">Cargo:
+        <input type="text" name="Cargo" maxlength="40" required>
+      </label>
+      <br>
+      <br>
+      <label for="DescriçãoCargo">Descrição do cargo:
+        <textarea name="DescriçãoCargo" id="text-area2" cols="30" rows="10" maxlength="500" required>
+        </textarea>
+      </label>
+      <br>
+      <br>
+      <br>
+      <br>
+      <button type="submit" id="submit-button"></button>
+    </fieldset>
+  </form>
+  </div>
+  <script src="./script.js"></script>
+</body>
+</html>
