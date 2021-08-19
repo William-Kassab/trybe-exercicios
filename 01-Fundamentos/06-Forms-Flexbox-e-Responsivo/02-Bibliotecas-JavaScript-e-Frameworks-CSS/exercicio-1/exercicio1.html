@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Formulário</title>
   <link rel="stylesheet" href="/bootstrap-5.1.0-dist/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body id="body">
@@ -73,12 +74,20 @@
       </label>
       <br>
       <br>
+      <label for="InitDate">Data de Início:
+        <input class="form-control" type="text" id="datepicker">
+      </label>
+      <br>
+      <br>
       <br>
       <br>
       <button class="btn btn-success" type="submit" id="submit-button"></button>
     </fieldset>
   </form>
-  <script></script>
+  <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
+  <script>
+    var picker = new Pikaday({ field: document.getElementById('datepicker') });
+  </script>
   <script src="./script.js"></script>
 </body>
 </html>
