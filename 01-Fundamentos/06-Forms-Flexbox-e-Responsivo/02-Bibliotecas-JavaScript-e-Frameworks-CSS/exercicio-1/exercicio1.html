@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário</title>
+  <link rel="stylesheet" href="/bootstrap-5.1.0-dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body id="body">
+  <header class="container text-center">
+    <h1 class="display-1">Formulário</h1>
+  </header>
+  <form class="container" action="" method="GET">
+    <fieldset id="field1">      
+      <label for="Nome">Nome:
+        <input class="form-control" type="text" name="Nome" id="nome" maxlength="40" required>
+      </label>
+      <br>
+      <br>
+      <label for="Email">Email:
+        <input class="form-control" type="text" name="Email" id="email" maxlength="50" required>
+      </label>
+      <br>
+      <br>
+      <label for="CPF">CPF:
+        <input class="form-control" type="text" name="CPF" id="cpf" maxlength="11" required>
+      </label>
+      <br>
+      <br>
+      <label for="BirthDate">Data de Nascimento:
+        <input type="date" class="form-control" name="calendar" id="birth-date" min="01/01/1940" required>
+      </label>
+      <br>
+      <br>
+      <label for="Endereço">Endereço:
+        <input class="form-control" type="text" name="Endereço" id="endereço" maxlength="200" required>
+      </label>
+      <br>
+      <br>
+      <label for="Cidade">Cidade:
+        <input class="form-control" type="text" name="Cidade" id="cidade" maxlength="28" required>
+      </label>
+      <br>
+      <label for="Estado">Estado:
+        <select class="form-select" aria-label="Default select example" name="Estado" id="input-estado" required>
+        </select>
+      </label>
+      <br>
+      <br>
+      <label class="form-check-label" for="casa">Casa:
+        <input class="form-check-input" type="radio" name="Tipo" id="casa">
+      </label>
+      <label class="form-check-label" for="apartamento">Apartamento:
+        <input class="form-check-input" type="radio" name="Tipo" id="apartamento">
+      </label>
+    </fieldset>
+    <fieldset id="field2">
+      <label for="floatingTextarea">Resumo do currículo:
+        <textarea class="form-control" name="ResumoCurriculo" id="text-area1" cols="30" rows="10" maxlength="1000" required>
+        </textarea>
+      </label>
+      <br>
+      <br>
+      <label for="Cargo">Cargo:
+        <input class="form-control" type="text" name="Cargo" maxlength="40" required>
+      </label>
+      <br>
+      <br>
+      <label for="floatingTextarea2">Descrição do cargo:
+        <textarea class="form-control" name="DescriçãoCargo" id="text-area2" cols="30" rows="10" maxlength="500" required>
+        </textarea>
+      </label>
+      <br>
+      <br>
+      <br>
+      <br>
+      <button class="btn btn-success" type="submit" id="submit-button"></button>
+    </fieldset>
+  </form>
+  <script></script>
+  <script src="./script.js"></script>
+</body>
+</html>
