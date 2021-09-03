@@ -63,12 +63,16 @@ const books = [
   },
 ];
 
-/*1 - Encontre o nome da primeira pessoa autora do livro nascida no ano de 1947.*/
+/*2 - Retorne o nome do livro de menor nome.*/
 
-function authorBornIn1947() {
-  const author = books.find((element, index) => books[index].author.birthYear === 1947);
-  return author.author.name;
+function smallerName() {
+  let nameBook;
+  books.forEach((__, index) => {
+    if (!nameBook || books[index].name.length < nameBook.length) {
+      nameBook = books[index].name;
+    }
+  });
+  return nameBook;
 }
-console.log(authorBornIn1947());
-
-assert.strictEqual(authorBornIn1947(), 'Stephen King');
+console.log(smallerName());
+assert.strictEqual(smallerName(), 'Duna');
