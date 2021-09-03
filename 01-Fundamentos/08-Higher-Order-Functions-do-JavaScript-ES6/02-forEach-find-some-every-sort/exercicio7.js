@@ -63,17 +63,4 @@ const books = [
   },
 ];
 
-/*2 - Retorne o nome do livro de menor nome.*/
-
-function smallerName() {
-  let nameBook;
-  books.forEach((__, index) => {
-    if (!nameBook || books[index].name.length < nameBook.length) {
-      nameBook = books[index].name;
-    }
-  });
-  return nameBook;
-}
-//console.log(smallerName());
-
-assert.strictEqual(smallerName(), 'Duna');
+// Adicione o código do exercício aqui:
