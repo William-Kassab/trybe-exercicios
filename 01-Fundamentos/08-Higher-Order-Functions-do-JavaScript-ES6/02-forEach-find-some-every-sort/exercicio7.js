@@ -63,4 +63,22 @@ const books = [
   },
 ];
 
-// Adicione o código do exercício aqui:
+/*7 - Faça uma função que retorne true , caso nenhum author tenha nascido no mesmo ano, e false , caso contrário.*/
+
+const expectedResult = false;
+
+function authorUnique() {
+  let uniqueBirth = true;
+  books.forEach((book, index) => {
+    const birthDates = book.author.birthYear;
+    books.forEach((bookCompared, indexCompared) => {
+      if (birthDates === bookCompared.author.birthYear && index !== indexCompared) {
+        uniqueBirth = false;
+      }
+    })
+  });
+  return uniqueBirth;
+}
+//console.log(authorUnique());
+
+assert.strictEqual(authorUnique(), expectedResult);
