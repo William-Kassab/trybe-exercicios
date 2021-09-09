@@ -11,7 +11,6 @@ const arrays = [
 function flatten() {
   const reduceArr = arrays.reduce((arr, element) => arr.concat(element));
   return reduceArr;
-  
 }
 //console.log(flatten());
 
