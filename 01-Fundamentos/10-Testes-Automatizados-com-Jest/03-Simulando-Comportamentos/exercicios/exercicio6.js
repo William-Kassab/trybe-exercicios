@@ -1,5 +1,5 @@
 function fetchURL() {
-  return fetch('https://ghibliapi.herokuapp.com/species').then(response =>
+  return fetch('https://dog.ceo/api/breeds/image/random').then(response =>
     response
       .json()
       .then(json =>
