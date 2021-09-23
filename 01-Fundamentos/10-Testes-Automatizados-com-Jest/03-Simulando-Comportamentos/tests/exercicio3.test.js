@@ -1,6 +1,6 @@
-const randomDiv = require('../exercicios/exercicio2');
+const randomDiv = require('../exercicios/exercicio3');
 
-jest.mock('../exercicios/exercicio2');
+jest.mock('../exercicios/exercicio3');
 
 test('#randomNum -> dividir', () => {
 
