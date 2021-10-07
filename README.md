@@ -83,11 +83,11 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 11: [Introdução à React]
-- [ ] 11.1 - Introdução - Front-end
-- [ ] 11.1 - Introdução - React
-- [ ] 11.1 - 'Hello, world!' no React!
-- [ ] 11.2 - Componentes React
-- [ ] 11.3 - Projeto - Movie Cards Library
+- [x] 11.1 - Introdução - Front-end
+- [x] 11.1 - Introdução - React
+- [x] 11.1 - 'Hello, world!' no React!
+- [x] 11.2 - Componentes React
+- [x] 11.3 - Projeto - Movie Cards Library
 
 ##### Bloco 12: [Componentes com Estado, Eventos e Formulários com React]
 - [ ] 12.1 - Componentes com estado e eventos
