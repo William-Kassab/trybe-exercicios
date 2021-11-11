@@ -90,27 +90,27 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [x] 11.3 - Projeto - Movie Cards Library
 
 ##### Bloco 12: [Componentes com Estado, Eventos e Formulários com React]
-- [ ] 12.1 - Componentes com estado e eventos
-- [ ] 12.2 - Formulários no React
-- [ ] 12.3 - Projeto - Movie Cards Library Stateful
+- [x] 12.1 - Componentes com estado e eventos
+- [x] 12.2 - Formulários no React
+- [x] 12.3 - Projeto - Movie Cards Library Stateful
 
 ##### Bloco 13: [Ciclo de Vida de Componentes e React Router]
-- [ ] 13.1 - Ciclo de vida de componentes
-- [ ] 13.2 - React Router
-- [ ] 13.3 - Projeto - Movie Cards Library CRUD
+- [x] 13.1 - Ciclo de vida de componentes
+- [x] 13.2 - React Router
+- [x] 13.3 - Projeto - Movie Cards Library CRUD
 
 ##### Bloco 14: [Metodologias Ágeis]
-- [ ] 14.1 - Metodologias Ágeis
-- [ ] 14.2 - Projeto - Frontend Online Store
+- [x] 14.1 - Metodologias Ágeis
+- [x] 14.2 - Projeto - Frontend Online Store
 
 ##### Bloco 15: [Testes automatizados com React Testing Library]
-- [ ] 15.1 - RTL - Primeiros passos
-- [ ] 15.2 - RTL - Mocks e Inputs
-- [ ] 15.3 - RTL - Testando React Router
-- [ ] 15.4 - Projeto - Testes em React
+- [x] 15.1 - RTL - Primeiros passos
+- [x] 15.2 - RTL - Mocks e Inputs
+- [x] 15.3 - RTL - Testando React Router
+- [x] 15.4 - Projeto - Testes em React
 
 ##### Bloco 16: [Gerenciamento de estado com Redux]
-- [ ] 16.1 - Introdução ao Redux - O estado global da aplicação
+- [x] 16.1 - Introdução ao Redux - O estado global da aplicação
 - [ ] 16.2 - Usando o Redux no React
 - [ ] 16.3 - Usando o Redux no React - Prática
 - [ ] 16.4 - Usando o Redux no React - Actions Assíncronas
