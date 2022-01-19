@@ -111,28 +111,28 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Bloco 16: [Gerenciamento de estado com Redux]
 - [x] 16.1 - Introdução ao Redux - O estado global da aplicação
-- [ ] 16.2 - Usando o Redux no React
-- [ ] 16.3 - Usando o Redux no React - Prática
-- [ ] 16.4 - Usando o Redux no React - Actions Assíncronas
-- [ ] 16.5 - Testes síncronos com React-Redux
-- [ ] 16.6 - Projeto - Tabela com filtros de dados
+- [x] 16.2 - Usando o Redux no React
+- [x] 16.3 - Usando o Redux no React - Prática
+- [x] 16.4 - Usando o Redux no React - Actions Assíncronas
+- [x] 16.5 - Testes síncronos com React-Redux
+- [x] 16.6 - Projeto - Tabela com filtros de dados
 
 ##### Bloco 17: Projeto Jogo de Trivia
-- [ ] 17.1 - Projeto - Jogo de Trivia
+- [x] 17.1 - Projeto - Jogo de Trivia
 
 ##### Bloco 18: [Context API e React Hooks]
-- [ ] 18.1 - Context API do React
-- [ ] 18.2 - React Hooks - useState e useContext
-- [ ] 18.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [x] 18.1 - Context API do React
+- [x] 18.2 - React Hooks - useState e useContext
+- [x] 18.3 - React Hooks - useEffect e Hooks customizados
+- [x] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
 
 ##### Bloco 19: Projeto App de Receitas
-- [ ] 19.1 - Projeto - App de Receitas
+- [x] 19.1 - Projeto - App de Receitas
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 20: [Introdução à SQL]
-- [ ] 20.1 - Introdução - Back-end
+- [x] 20.1 - Introdução - Back-end
 - [ ] 20.1 - Introdução - Bancos de dados relacionais
 - [ ] 20.1 - Banco de dados SQL
 - [ ] 20.2 - Encontrando dados em um banco de dados
