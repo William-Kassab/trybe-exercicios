@@ -133,58 +133,58 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Bloco 20: [Introdução à SQL]
 - [x] 20.1 - Introdução - Back-end
-- [ ] 20.1 - Introdução - Bancos de dados relacionais
-- [ ] 20.1 - Banco de dados SQL
-- [ ] 20.2 - Encontrando dados em um banco de dados
-- [ ] 20.3 - Filtrando dados de forma específica
-- [ ] 20.4 - Manipulando tabelas
-- [ ] 20.5 - Projeto - All For One
+- [x] 20.1 - Introdução - Bancos de dados relacionais
+- [x] 20.1 - Banco de dados SQL
+- [x] 20.2 - Encontrando dados em um banco de dados
+- [x] 20.3 - Filtrando dados de forma específica
+- [x] 20.4 - Manipulando tabelas
+- [x] 20.5 - Projeto - All For One
 
 ##### Bloco 21: [Funções SQL, Joins e Subqueries]
-- [ ] 21.1 - Funções mais usadas no SQL
-- [ ] 21.2 - Descomplicando JOINs e UNIONs
-- [ ] 21.3 - Stored Routines & Subqueries
-- [ ] 21.4 - Projeto - Vocabulary Booster
+- [x] 21.1 - Funções mais usadas no SQL
+- [x] 21.2 - Descomplicando JOINs e UNIONs
+- [x] 21.3 - Stored Routines & Subqueries
+- [x] 21.4 - Projeto - Vocabulary Booster
 
 ##### Bloco 22: [Normalização e Modelagem de Banco de Dados]
-- [ ] 22.1 - Transformando ideias em um modelo de banco de dados
-- [ ] 22.2 - Normalização, Formas Normais e Dumps
-- [ ] 22.3 - Transformando ideias em um modelo de banco de dados - Parte 2
-- [ ] 22.4 - Projeto - One For All
+- [x] 22.1 - Transformando ideias em um modelo de banco de dados
+- [x] 22.2 - Normalização, Formas Normais e Dumps
+- [x] 22.3 - Transformando ideias em um modelo de banco de dados - Parte 2
+- [x] 22.4 - Projeto - One For All
 
 ##### Bloco 23: [Introdução ao MongoDB]
-- [ ] 23.1 - Introdução - NoSQL
-- [ ] 23.1 - MongoDB - Introdução
-- [ ] 23.2 - Filter Operators
-- [ ] 23.3 - Projeto - Data Flights
+- [x] 23.1 - Introdução - NoSQL
+- [x] 23.1 - MongoDB - Introdução
+- [x] 23.2 - Filter Operators
+- [x] 23.3 - Projeto - Data Flights
 
 ##### Bloco 24: [MongoDB: Updates Simples e Complexos]
-- [ ] 24.1 - Updates Simples
-- [ ] 24.2 - Updates Complexos - Arrays - Parte 1
-- [ ] 24.3 - Updates Complexos - Arrays - Parte 2
-- [ ] 24.4 - Projeto - Commerce
+- [x] 24.1 - Updates Simples
+- [x] 24.2 - Updates Complexos - Arrays - Parte 1
+- [x] 24.3 - Updates Complexos - Arrays - Parte 2
+- [x] 24.4 - Projeto - Commerce
 
 ##### Bloco 25: [MongoDB: Aggregation Framework]
-- [ ] 25.1 - Aggregation Framework - Parte 1
-- [ ] 25.2 - Aggregation Framework - Parte 2
-- [ ] 25.3 - Projeto - Aggregations
+- [x] 25.1 - Aggregation Framework - Parte 1
+- [x] 25.2 - Aggregation Framework - Parte 2
+- [x] 25.3 - Projeto - Aggregations
 
 ##### Bloco 26: [Introdução ao desenvolvimento Web com NodeJS]
-- [ ] 26.1 - Intro - NodeJS
-- [ ] 26.1 - NodeJS - Introdução
-- [ ] 26.2 - NodeJS - Fluxo Assíncrono
-- [ ] 26.3 - Testes com NodeJS
-- [ ] 26.4 - Express: HTTP com Node.js
-- [ ] 26.5 - Praticando Express
-- [ ] 26.6 - Projeto - Talker manager
+- [x] 26.1 - Intro - NodeJS
+- [x] 26.1 - NodeJS - Introdução
+- [x] 26.2 - NodeJS - Fluxo Assíncrono
+- [x] 26.3 - Testes com NodeJS
+- [x] 26.4 - Express: HTTP com Node.js
+- [x] 26.5 - Praticando Express
+- [x] 26.6 - Projeto - Talker manager
 
 ##### Bloco 27: [NodeJS: Camada de Serviço e Arquitetura Rest e Restful]
-- [ ] 27.1 - Introdução - Arquitetura de Software
-- [ ] 27.1 - Arquitetura de Software - Camada de Model
-- [ ] 27.2 - Arquitetura de Software - Camada de Controller e Service
-- [ ] 27.3 - Arquitetura Web - Rest e Restful
-- [ ] 27.4 - Arquitetura de Software - Testando as Camadas
-- [ ] 27.5 - Projeto - Store Manager
+- [x] 27.1 - Introdução - Arquitetura de Software
+- [x] 27.1 - Arquitetura de Software - Camada de Model
+- [x] 27.2 - Arquitetura de Software - Camada de Controller e Service
+- [x] 27.3 - Arquitetura Web - Rest e Restful
+- [x] 27.4 - Arquitetura de Software - Testando as Camadas
+- [x] 27.5 - Projeto - Store Manager
 
 ##### Bloco 28: [Autenticação e Upload de Arquivos]
 - [ ] 28.1 - NodeJS - JWT - (JSON Web Token)
@@ -193,17 +193,17 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [ ] 28.4 - Projeto - Cookmaster
 
 ##### Bloco 29: [Deployment]
-- [ ] 29.1 - Introdução - Deploy
-- [ ] 29.1 - Infraestrutura - Deploy com Heroku
-- [ ] 29.2 - Deploy - Gerenciadores de Processos
-- [ ] 29.3 - Projeto - Stranger Things
+- [x] 29.1 - Introdução - Deploy
+- [x] 29.1 - Infraestrutura - Deploy com Heroku
+- [x] 29.2 - Deploy - Gerenciadores de Processos
+- [x] 29.3 - Projeto - Stranger Things
 
 ##### Bloco 30: Arquitetura: SOLID e ORM
-- [ ] 30.1 - Arquitetura - Princípios SOLID
-- [ ] 30.2 - ORM - Interface da aplicação com o banco de dados
-- [ ] 30.3 - ORM - Associations
-- [ ] 30.4 - Boas práticas na escrita de testes
-- [ ] 30.5 - Projeto - API de Blogs
+- [x] 30.1 - Arquitetura - Princípios SOLID
+- [x] 30.2 - ORM - Interface da aplicação com o banco de dados
+- [x] 30.3 - ORM - Associations
+- [x] 30.4 - Boas práticas na escrita de testes
+- [x] 30.5 - Projeto - API de Blogs
 
 ##### Bloco 31: Sockets
 - [ ] 31.1 - Sockets - TCP/UDP & NET
